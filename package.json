@@ -1,0 +1,23 @@
+{
+  "name": "craigslist_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asucarlos/craigslist_data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asucarlos/craigslist_data/issues"
+  },
+  "homepage": "https://github.com/asucarlos/craigslist_data#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "nightmare": "^3.0.2"
+  }
+}
